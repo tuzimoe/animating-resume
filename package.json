@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "marked": "^0.3.6",
+    "npm": "^6.4.1",
     "prismjs": "^1.6.0",
     "vue": "^2.1.10"
   },
