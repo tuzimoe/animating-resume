@@ -12,7 +12,7 @@
     "marked": "^0.5.1",
     "npm": "^6.4.1",
     "prismjs": "^1.6.0",
-    "vue": "^2.1.10"
+    "vue": "^2.6.6"
   },
   "devDependencies": {
     "autoprefixer": "^9.3.1",
@@ -41,7 +41,7 @@
     "url-loader": "^0.5.7",
     "vue-loader": "^10.3.0",
     "vue-style-loader": "^2.0.0",
-    "vue-template-compiler": "^2.1.10",
+    "vue-template-compiler": "^2.6.6",
     "webpack": "^2.2.1",
     "webpack-bundle-analyzer": "^3.0.3",
     "webpack-dev-middleware": "^3.4.0",
